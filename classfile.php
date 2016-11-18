@@ -61,7 +61,7 @@
 			
 			for($c=1;$c<=$cols;$c++) {
 			
-			echo "<td><input type='text' name='row".$i."cell".$c."' id='row".$i."cell".$c."' /></td>";
+			echo "<td bgcolor='green'><input type='text' name='row".$i."cell".$c."' id='row".$i."cell".$c."' /></td>";
 			}
 			echo "</tr>";
 			}

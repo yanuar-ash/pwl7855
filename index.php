@@ -41,7 +41,7 @@
 		</form>
 	<br><hr><br>
 	
-	<table border=1  id="table">
+	<table border=1 bgcolor='red' bordercolor='yellow' id="table">
 
 	</table>
 	</body>
